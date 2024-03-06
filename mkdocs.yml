@@ -1,5 +1,9 @@
 site_name: Stranka, ktera funguje (urcite)
+
 nav:
-  - Home: 'index.md'
-  - Maturita: 'maturita.md'
-  - Zapisky: 'zapisky.md'
+   - Home: 'index.md'
+   - Zapisky z 19.1.: 'zapisky.md'
+   - Maturita: 'maturita.md'
+
+theme:
+    name: dracula
