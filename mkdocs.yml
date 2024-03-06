@@ -6,4 +6,4 @@ nav:
    - Maturita: 'maturita.md'
 
 theme:
-    name: dracula
+    name: bootstrap386
