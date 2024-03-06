@@ -1,1 +1,4 @@
 site_name: My Docs
+nav:
+  - maturita: 'maturita.md'
+  - zapisky: 'zapisky.md'
